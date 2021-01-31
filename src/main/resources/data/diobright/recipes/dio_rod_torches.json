@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "c",
+    "d"
+  ],
+  "key":
+  {
+    "c":
+    {
+      "item": "minecraft:coal"
+    },
+    "d":
+    {
+      "item": "diobright:dio_rod"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:torch"
+  }
+}

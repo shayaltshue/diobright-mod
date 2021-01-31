@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "d",
+    "d"
+  ],
+  "key":
+  {
+    "d":
+    {
+      "item": "minecraft:diorite"
+    }
+  },
+  "result":
+  {
+    "item": "diobright:dio_rod"
+  }
+}

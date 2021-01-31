@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ddd",
+    "dtd",
+    "ddd"
+  ],
+  "key":
+  {
+    "d":
+    {
+      "item": "minecraft:diorite"
+    },
+    "t":
+    {
+      "item": "minecraft:torch"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:lantern"
+  }
+}
