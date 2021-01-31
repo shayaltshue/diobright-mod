@@ -3,7 +3,7 @@
   "pattern":
   [
     "ddd",
-    "ddd",
+    "dgd",
     "ddd"
   ],
   "key":
@@ -11,6 +11,10 @@
     "d":
     {
       "item": "minecraft:diorite"
+    },
+    "g":
+    {
+      "item": "minecraft:glowstone_dust"
     }
   },
   "result":
