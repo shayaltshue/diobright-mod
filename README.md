@@ -1,6 +1,6 @@
 # DioBright Mod
-Minecraft Version: 1.15.2
-Current Mod Version: 1.0.0
+Minecraft Version: 1.15.2  
+Current Mod Version: 1.0.0  
 
 ### Description: 
 This is a mod for Minecraft. It takes the worst block in the game (diorite) and makes it actually useful.
