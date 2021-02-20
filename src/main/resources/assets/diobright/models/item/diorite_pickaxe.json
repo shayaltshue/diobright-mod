@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "diobright:item/diorite_pickaxe"
+  }
+}

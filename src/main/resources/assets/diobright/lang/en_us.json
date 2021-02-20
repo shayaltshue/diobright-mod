@@ -2,6 +2,11 @@
     "block.diobright.diobright_block": "DioBright Block",
     "block.diobright.diobrick_block": "DioBrick Block",
 
+    "item.diobright.diorite_shovel": "Diorite Shovel",
+    "item.diobright.diorite_pickaxe": "Diorite Pickaxe",
+    "item.diobright.diorite_axe": "Diorite Axe",
+    "item.diobright.diorite_sword": "Diorite Sword",
+
     "item.diobright.dio_rod": "DioRod",
 
     "itemGroup.diobrightTab": "DioBright Tab"
