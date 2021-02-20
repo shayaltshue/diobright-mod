@@ -1,8 +1,6 @@
 # DioBright Mod
-
-## Minecraft Version: 1.15.2
-
-## Current Mod Version: 1.0.0
+Minecraft Version: 1.15.2  
+Current Mod Version: 1.0.0  
 
 ### Description: 
 This is a mod for Minecraft. It takes the worst block in the game (diorite) and makes it actually useful.
@@ -14,4 +12,4 @@ This is a mod for Minecraft. It takes the worst block in the game (diorite) and 
 * DioLanterns: A lantern crafting replacement. Iron nuggets is expensive if players don't have access to a farm for iron, this gives diorite another use case.
 
 ### How to get the Mod:
-Inside of the built_jars folder there will be jar folders. Download the desired version, then include it within the mod folder for your game.
+Inside of the built_jars folder are the jars for each version of the mod. Download the desired version, then include it within the mod folder for your game.
